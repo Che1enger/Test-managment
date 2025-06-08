@@ -1,8 +1,5 @@
 # Team Management App
 
-The application fetches data from an external JSON source:  
-`https://storage.aderize.com/Erik/Test-Works/teams.json`
-
 ## Tech Stack
 - React (with hooks)
 - TypeScript
